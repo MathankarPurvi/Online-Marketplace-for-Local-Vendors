@@ -4,8 +4,6 @@ This project is an online marketplace platform designed to connect local vendors
 
 ##  Features
 
-Vendor registration<br>
-Vendor Login<br>
 Add Products by linking image url<br>
 Product listing and browsing <br>
 Seperate Vendor Page<br>
@@ -13,17 +11,9 @@ Seperate Vendor Page<br>
 ## Technologies Used
 
 Node.js<br>
-Express.js<br>
 SQLite<br>
 HTML<br>
 CSS<br>
 JavaScript<br>
 
-## Installation Instructions
-
-Install Node<br>
-Clone the repository<br>
-Install the project dependencies using yarn<br>
-Run the server using the command 'node server.js'<br>
-The server will be run in local host:3000<br>
 
