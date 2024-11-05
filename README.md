@@ -11,7 +11,6 @@ Seperate Vendor Page<br>
 ## Technologies Used
 
 Node.js<br>
-SQLite<br>
 HTML<br>
 CSS<br>
 JavaScript<br>
